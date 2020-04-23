@@ -1,0 +1,10 @@
+List yang saya ingin pelajari
+- Git dan Github
+- Basic Terminal Usage
+- Data Structure & Algoritma
+- License
+- Semantic Versioning
+- SSH
+- HTTP/ HTTPS and APIs
+- Design Pattern
+- Charecter Encoding
