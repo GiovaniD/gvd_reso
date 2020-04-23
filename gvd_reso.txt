@@ -8,3 +8,10 @@ List yang saya ingin pelajari
 - HTTP/ HTTPS and APIs
 - Design Pattern
 - Charecter Encoding
+List yang ingin dipelajari stap 2
+- Internet Work
+- What is HTTP 
+- Browser and how they work
+- DNS and how it works
+- What is Domain name
+- What is Hosting
