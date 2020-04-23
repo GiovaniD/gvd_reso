@@ -1,7 +1,10 @@
 Rencana Belajar
+- Anguler
+- React
 - Vue
   - Javascript
   - Node.js
 - Laravel
   - PHP
+- Phyton
 - Figma
