@@ -8,3 +8,4 @@ Rencana Belajar
   - PHP
 - Phyton
 - Figma
+- Adobe XD
