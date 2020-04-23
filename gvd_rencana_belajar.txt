@@ -1,7 +1,9 @@
 Rencana Belajar
+- React
 - Vue
   - Javascript
   - Node.js
 - Laravel
   - PHP
+- Adobe XD
 - Figma
