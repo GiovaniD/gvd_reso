@@ -1,6 +1,7 @@
 Rencana Belajar
 - Vue
   - Javascript
+  - Node.js
 - Laravel
   - PHP
 - Figma
